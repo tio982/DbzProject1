@@ -18,7 +18,7 @@ pip install pandas matplotlib seaborn
 
 ## Usage
 
-Run the project script: python dragon_ball_analysis.py
+Run the project script: dbz-power-levels.ipynb on jupyter notebook
 
 Explore the distribution of character power levels across sagas in the Dragon Ball series.
 
